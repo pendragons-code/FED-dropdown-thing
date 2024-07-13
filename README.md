@@ -248,3 +248,6 @@
 								<option>Zambia</option>
 								<option>Zimbabwe</option>
 ```
+
+## Sample Usage
+![image](https://github.com/user-attachments/assets/60900a06-33a0-4163-aef4-64d428643aef)
